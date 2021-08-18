@@ -20,7 +20,7 @@
   
   - CLASE "HibernateUtil" :   Configura SessionFactory.
   
-  - CLASE "PersonalOperaciones" :   Crea un SessionFactory y realiza el metodo
+  - CLASE "PersonalOperaciones" :   Crea un SessionFactory y realiza el método
           "listarPersonal()".
   
 #PAQUETE "proyectohibernate" : 
