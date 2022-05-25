@@ -1,5 +1,6 @@
-# Proyecto-Hibernate
+## Hibernate
 
-### Java / Java Application
+### Proyecto Java Application
 
-## Proyecto Hibernate, muestra un "List" , de la clase POJO: "Personal"
+- #### Creamos un Proyecto Hibernate 
+- #### Mostramos un "List", de la Clase POJO "Personal"
